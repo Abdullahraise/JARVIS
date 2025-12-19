@@ -1,0 +1,23 @@
+nohup: ignoring input
+2025-12-19 05:13:17.542 
+Warning: the config option 'server.enableCORS=false' is not compatible with
+'server.enableXsrfProtection=true'.
+As a result, 'server.enableCORS' is being overridden to 'true'.
+
+More information:
+In order to protect against CSRF attacks, we send a cookie with each request.
+To do so, we must specify allowable origins, which places a restriction on
+cross-origin resource sharing.
+
+If cross origin resource sharing is required, please disable server.enableXsrfProtection.
+            
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.0.1.13:8501
+  External URL: http://20.192.21.50:8501
+

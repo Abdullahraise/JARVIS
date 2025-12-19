@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-core
+langchain-groq
+pywhatkit
+pyttsx3
+SpeechRecognition
+python-dotenv
+streamlit-audiorecorder
